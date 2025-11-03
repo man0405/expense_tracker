@@ -5,11 +5,7 @@ A full-featured Flutter expense tracking application with local storage and data
 
 ## Demo
 
-You can find a short demo video showing the app in action in the repository at `assets/demo.mp4`.
-<video controls style="max-width:100%; height:auto;">
-   <source src="assets/demo.mp4" type="video/mp4">
-   Your browser does not support the video tag. You can download the demo video here: <a href="assets/demo.mp4">assets/demo.mp4</a>
-</video>
+https://github.com/user-attachments/assets/7562b23e-11fc-402f-9e35-eeb966d35676
 
 ## Features
 
